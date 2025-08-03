@@ -33,7 +33,7 @@ contourpy==1.1.1
 cryptography==41.0.4
 cycler==0.11.0
 cymem==2.0.8
-dataclasses-json==0.5.14
+dataclasses-json==0.6.0
 debugpy==1.8.0
 decorator==5.1.1
 dill==0.3.7
@@ -113,7 +113,7 @@ nest-asyncio==1.5.8
 networkx==3.1
 nltk==3.8.1
 numexpr==2.8.5
-numpy==1.25.2
+numpy==1.26.0
 olefile==0.46
 omegaconf==2.3.0
 onnx==1.14.1
